@@ -1,6 +1,6 @@
 # <img src="image-1.png" style="filter: brightness(0) invert(1);" alt="Nguyen Le" width="30"/> Nguyen Le
 
-🎬💻 **` Digital Craftsman (Developer/Filmmaker/)`**
+🎬💻 **` Digital Craftsman (Developer/Filmmaker)`**
 
 <p style="text-decoration:underline"><strong>Role:</strong> Frontend, Computer Vision Engineer</p>
 
